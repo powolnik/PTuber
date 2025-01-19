@@ -15,10 +15,9 @@
 *.pch
 
 # Compiled Dynamic libraries
-#*.so
-#*.dylib
+*.so
+*.dylib
 *.dll
-*.pdb
 
 # Fortran module files
 *.mod
@@ -26,8 +25,8 @@
 # Compiled Static libraries
 *.lai
 *.la
-#*.a
-#*.lib
+*.a
+*.lib
 
 # Executables
 *.exe
@@ -51,9 +50,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Binaries/Win64/UnrealEditor.modules
-Binaries/Win64/llama.dll
-!Libraries/Win64/llama.dll
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -78,7 +75,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Models/*
-ThirdParty/LlamaCpp/Win64/Cuda/cudart.lib
-ThirdParty/LlamaCpp/Win64/Cuda/cublas.lib
-ThirdParty/LlamaCpp/Win64/Cuda/cuda.lib
