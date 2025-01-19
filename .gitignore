@@ -1,5 +1,11 @@
 # Visual Studio 2015 user specific files
+<<<<<<< HEAD
 .vs/
+=======
+.vs/*
+.idea/*
+.vsconfig
+>>>>>>> fa8bbea (InitCommit and plugins setup)
 
 # Compiled Object files
 *.slo
@@ -72,3 +78,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+=======
+.vsconfig
+.vs/PTuber/v17/.suo
+.idea/.idea.PTuber/.idea/vcs.xml
+.idea/.idea.PTuber/.idea/indexLayout.xml
+.idea/.idea.PTuber/.idea/encodings.xml
+>>>>>>> fa8bbea (InitCommit and plugins setup)
