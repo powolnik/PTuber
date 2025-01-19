@@ -118,6 +118,10 @@
 		{
 			"Name": "UELlama",
 			"Enabled": true
+		},
+		{
+			"Name": "SpeechRecognition",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
