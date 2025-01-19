@@ -116,10 +116,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "UELlama",
-			"Enabled": true
-		},
-		{
 			"Name": "SpeechRecognition",
 			"Enabled": true
 		}
