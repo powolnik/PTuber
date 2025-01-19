@@ -86,3 +86,10 @@ DerivedDataCache/*
 .idea/.idea.PTuber/.idea/indexLayout.xml
 .idea/.idea.PTuber/.idea/encodings.xml
 >>>>>>> fa8bbea (InitCommit and plugins setup)
+*.zip
+Content/model/model.z06
+Content/model/model.z05
+Content/model/model.z04
+Content/model/model.z03
+Content/model/model.z02
+Content/model/model.z01
